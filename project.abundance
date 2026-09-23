@@ -192,6 +192,30 @@
       "uniqueID": "id-938298",
       "name": "Dist",
       "options": []
+    },
+    {
+      "atomType": "GitHubMolecule",
+      "x": 0.7,
+      "y": 0.8,
+      "uniqueID": "id-938336",
+      "name": "Github Molecule",
+      "topLevel": false,
+      "allAtoms": [
+        {
+          "atomType": "Output",
+          "x": 1,
+          "y": 0.5,
+          "uniqueID": "id-938338",
+          "ioValues": [
+            {
+              "name": "number or geometry",
+              "ioValue": "__GEOMETRY_INPUT__"
+            }
+          ]
+        }
+      ],
+      "allConnectors": [],
+      "fileTypeVersion": 1
     }
   ],
   "allConnectors": [
