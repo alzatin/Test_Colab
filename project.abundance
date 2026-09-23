@@ -167,7 +167,7 @@
     },
     {
       "atomType": "Assembly",
-      "x": 0.7,
+      "x": 0.8,
       "y": 0.5,
       "uniqueID": "id-938262",
       "ioValues": [
@@ -188,9 +188,10 @@
     {
       "atomType": "Input",
       "x": 0,
-      "y": 0.2,
+      "y": 0.3,
       "uniqueID": "id-938298",
-      "name": "Dist"
+      "name": "Dist",
+      "options": []
     }
   ],
   "allConnectors": [
