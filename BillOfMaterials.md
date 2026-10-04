@@ -2,4 +2,9 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|Spur gear, module 2, 25 teeth (50 mm pitch dia), bored to fit shaft|2|$0.00||
+|Flange bearing, 20 mm bore (turn shaft ends round)|4|$0.00||
+|20x20 aluminium T-slot extrusion, 1.38 m total (cut 7x120 mm, 2x270 mm)|1|$0.00||
+|20x20 T-slot corner bracket with M5 bolts and T-nuts|14|$0.00||
+|Worm gearbox ~30:1, hollow output bore to fit drive shaft (e.g. NMRV040)|1|$0.00||
+|Total: |22|$0.00| |
