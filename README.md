@@ -4,11 +4,6 @@
 
 ![](/project.png)
 
-## Inputs
-
-- **Dist** (number)
-
-
 
 
  
